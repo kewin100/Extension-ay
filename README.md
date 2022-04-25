@@ -1,2 +1,1 @@
-# Extension-ay
-Extension ay
+Young proud developer that loves to code in python
